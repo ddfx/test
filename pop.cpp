@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//амавм
 	list* one = new list();
 	list* first = one;
 	cout<<one->data->get_b()<<"\n";
